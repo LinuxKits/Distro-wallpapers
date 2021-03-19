@@ -1,5 +1,8 @@
 # Distro_wallpapers
 This project is used to collect wallpapers of each linux distribution
+# Related project
+https://github.com/nazibalalam/CLIfor-Distro_Wallpapers
+
 # Status and licenses
 LAST UPGRADED = 2021-3-19[UTC+8]
 
