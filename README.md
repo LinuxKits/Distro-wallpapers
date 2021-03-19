@@ -13,7 +13,7 @@ buster
 
 ->Pop_OS! [Creative Commons - Attribution Share Alike]
 
-->Zorin-OS [Unknown]
+->Zorin-OS [https://zorinos.com/press/#copyright-licensing]
 12.4
 15.2
 
