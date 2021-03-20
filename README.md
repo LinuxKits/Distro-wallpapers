@@ -2,7 +2,7 @@
 This project is created to collect wallpapers, login and GRUB screens, and other artworks of each and every linux distribution.
 
 # Related project
-https://github.com/nazibalalam/Distro_wallpapers-CLI-bash
+https://github.com/nazibalalam/Distro_wallpapers-CLI-bash <br>
 https://github.com/happyeggchen/Distro_wallpapers-CLI-fish
 
 # Installation
