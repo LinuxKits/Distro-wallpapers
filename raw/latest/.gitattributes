@@ -15,3 +15,5 @@ raspbian.tar.gz filter=lfs diff=lfs merge=lfs -text
 Zorin-OS.tar.gz filter=lfs diff=lfs merge=lfs -text
 endeavour.tar.gz filter=lfs diff=lfs merge=lfs -text
 Fedora.tar.gz filter=lfs diff=lfs merge=lfs -text
+MX-Linux.tar.gz filter=lfs diff=lfs merge=lfs -text
+antiX.tar.gz filter=lfs diff=lfs merge=lfs -text
