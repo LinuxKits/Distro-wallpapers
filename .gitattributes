@@ -1,3 +1,0 @@
-raw/latest/Debian.tar.gz filter=lfs diff=lfs merge=lfs -text
-raw/latest/Pop_OS!.tar.gz filter=lfs diff=lfs merge=lfs -text
-raw/latest/Zorin-OS.tar.gz filter=lfs diff=lfs merge=lfs -text
