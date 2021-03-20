@@ -1,11 +1,11 @@
 # Distro_wallpapers
 This project is used to collect wallpapers of each linux distribution
 # Related project
-https://github.com/nazibalalam/Distro_wallpapers-CLI-bash
+https://github.com/nazibalalam/Distro_wallpapers-CLI-bash <br>
 https://github.com/happyeggchen/Distro_wallpapers-CLI-fish
 
 # Status and licenses
-LAST UPGRADED = 2021-3-19[UTC+8]
+LAST UPGRADED = 2021-3-20[UTC+8]
 
 Now we've got 
 ```
