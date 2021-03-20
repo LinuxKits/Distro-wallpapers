@@ -61,6 +61,12 @@ Now we've got
   - 16.1
   - 17.1
   - 19
+  
 - MX Linux [Unknown]
   - 19
 
+- endeavour [GPL-3.0]
+  - 2021.02.03
+  
+- Fedora [CC-BY-SA-4.0]
+  - 33
