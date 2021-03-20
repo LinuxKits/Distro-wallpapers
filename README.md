@@ -16,7 +16,7 @@ Now we've got
 - Debian [GPL-2.0+]
   - buster
 
--  Pop_OS! [Creative Commons - Attribution Share Alike]
+-  Pop_OS! [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 - Zorin-OS [https://zorinos.com/press/#copyright-licensing]
   - 12.4
