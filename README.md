@@ -1,55 +1,66 @@
 # Distro_wallpapers
-This project is used to collect wallpapers of each linux distribution
+This project is created to collect wallpapers, login and GRUB screens, and other artworks of each and every linux distribution.
+
 # Related project
-https://github.com/nazibalalam/Distro_wallpapers-CLI-bash <br>
+https://github.com/nazibalalam/Distro_wallpapers-CLI-bash
 https://github.com/happyeggchen/Distro_wallpapers-CLI-fish
 
+# Installation
+This project is just to collect all Linux distro wallpapers, so you can install (download) these wallpapers using the scripts mentioned above. With them you can browse through these folders withought downloading, download the folders you want, configure nitrogen for these wallpapers automatically and etc. Not all of these features have been implemented yet so you can contribute to these scripts. 
+
 # Status and licenses
-LAST UPGRADED = 2021-3-20[UTC+8]
+Last upgraded = 2021-3-20 [UTC+8]
 
 Now we've got 
-```
-->Debian [GPL-2.0+]
-buster
 
-->Pop_OS! [Creative Commons - Attribution Share Alike]
+- Debian [GPL-2.0+]
+  - buster
 
-->Zorin-OS [https://zorinos.com/press/#copyright-licensing]
-12.4
-15.2
+-  Pop_OS! [Creative Commons - Attribution Share Alike]
 
-->aosp [APACHE2]
-10
+- Zorin-OS [https://zorinos.com/press/#copyright-licensing]
+  - 12.4
+  - 15.2
 
-->bluelake [Greg Annandale Photography Image Licence]
-2.3
+- aosp [APACHE2]
+  - 10
 
-->deepin [Unknown]
-20
+- bluelake [Greg Annandale Photography Image Licence]
+  - 2.3
 
-->elementary [https://github.com/elementary/wallpapers/blob/master/LICENSE.md]
+- deepin [Unknown]
+  - 20
 
-->gnome [CCBYSA / Public Domain / CC0]
-3.30
+- elementary [https://github.com/elementary/wallpapers/blob/master/LICENSE.md]
 
-->lineageos [Maybe MIT]
-17.1
+- gnome [CCBYSA / Public Domain / CC0]
+  - 3.30
 
-->manjaro_xfce [Unknown]
-20.2.1
+- lineageos [Maybe MIT]
+  - 17.1
 
-->mint [Unknown]
-20.1
+- manjaro_xfce [Unknown]
+  - 20.2.1
 
-->plasma [GPL-2+]
-5.14
+- mint [Unknown]
+  - 20.1
 
-->raspbian [Greg Annandale Photography Image Licence]
-buster
+- plasma [GPL-2+]
+  - 5.14
 
-->solus [Unsplash License , Pexels License and CC-BY-3.0]
-4.1
+- raspbian [Greg Annandale Photography Image Licence]
+  - buster
 
-->ubuntu [CC-BY-SA 3.0]
-20.10
-```
+- solus [Unsplash License , Pexels License and CC-BY-3.0]
+  - 4.1
+
+- ubuntu [CC-BY-SA 3.0]
+  - 20.10
+
+- antiX [Unknown]
+  - 16.1
+  - 17.1
+  - 19
+- MX Linux [Unknown]
+  - 19
+
