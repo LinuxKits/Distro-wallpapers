@@ -1,55 +1,74 @@
 # Distro_wallpapers
-This project is used to collect wallpapers of each linux distribution
+This project is created to collect wallpapers, login and GRUB screens, and other artworks of each and every linux distribution.
+
 # Related project
 https://github.com/nazibalalam/Distro_wallpapers-CLI-bash <br>
 https://github.com/happyeggchen/Distro_wallpapers-CLI-fish
 
-# Status and licenses
-LAST UPGRADED = 2021-3-20[UTC+8]
+# Installation
+This project is just to collect all Linux distro wallpapers, so you can install (download) these wallpapers using the scripts mentioned above. With them you can browse through these folders withought downloading, download the folders you want, configure nitrogen for these wallpapers automatically and etc. Not all of these features have been implemented yet so you can contribute to these scripts. 
 
-Now we've got 
-```
-->Debian [GPL-2.0+]
-buster
+# List of included distro(s)
+Last updated = 2021-3-21 [UTC+8]
 
-->Pop_OS! [Creative Commons - Attribution Share Alike]
+Currently we have these wallpapers :- 
 
-->Zorin-OS [https://zorinos.com/press/#copyright-licensing]
-12.4
-15.2
+- Debian [GPL-2.0+]
+  - buster
 
-->aosp [APACHE2]
-10
+-  Pop_OS! [[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)]
 
-->bluelake [Greg Annandale Photography Image Licence]
-2.3
+- Zorin-OS [https://zorinos.com/press/#copyright-licensing]
+  - 12.4
+  - 15.2
 
-->deepin [Unknown]
-20
+- aosp [APACHE2]
+  - 10
 
-->elementary [https://github.com/elementary/wallpapers/blob/master/LICENSE.md]
+- bluelake [Greg Annandale Photography Image Licence]
+  - 2.3
 
-->gnome [CCBYSA / Public Domain / CC0]
-3.30
+- deepin [Unknown]
+  - 20
 
-->lineageos [Maybe MIT]
-17.1
+- elementary [https://github.com/elementary/wallpapers/blob/master/LICENSE.md]
 
-->manjaro_xfce [Unknown]
-20.2.1
+- gnome [CCBYSA / Public Domain / CC0]
+  - 3.30
 
-->mint [Unknown]
-20.1
+- lineageos [Maybe MIT]
+  - 17.1
 
-->plasma [GPL-2+]
-5.14
+- manjaro_xfce [Unknown]
+  - 20.2.1
 
-->raspbian [Greg Annandale Photography Image Licence]
-buster
+- mint [Unknown]
+  - 20.1
 
-->solus [Unsplash License , Pexels License and CC-BY-3.0]
-4.1
+- plasma [GPL-2+]
+  - 5.14
 
-->ubuntu [CC-BY-SA 3.0]
-20.10
-```
+- raspbian [Greg Annandale Photography Image Licence]
+  - buster
+
+- solus [Unsplash License , Pexels License and CC-BY-3.0]
+  - 4.1
+
+- ubuntu [CC-BY-SA 3.0]
+  - 20.10
+  - 20.04
+  - 18.04
+
+- antiX [Unknown]
+  - 16.1
+  - 17.1
+  - 19
+  
+- MX Linux [Unknown]
+  - 19
+
+- endeavour [GPL-3.0]
+  - 2021.02.03
+  
+- Fedora [CC-BY-SA-4.0]
+  - 33
