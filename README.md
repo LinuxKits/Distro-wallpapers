@@ -56,6 +56,8 @@ Now we've got
 
 - ubuntu [CC-BY-SA 3.0]
   - 20.10
+  - 20.04
+  - 18.04
 
 - antiX [Unknown]
   - 16.1
