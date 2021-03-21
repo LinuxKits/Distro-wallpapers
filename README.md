@@ -9,9 +9,9 @@ https://github.com/happyeggchen/Distro_wallpapers-CLI-fish
 This project is just to collect all Linux distro wallpapers, so you can install (download) these wallpapers using the scripts mentioned above. With them you can browse through these folders withought downloading, download the folders you want, configure nitrogen for these wallpapers automatically and etc. Not all of these features have been implemented yet so you can contribute to these scripts. 
 
 # List of included distro(s)
-Last updated = 2021-3-20 [UTC+8]
+Last updated = 2021-3-21 [UTC+8]
 
-Now we've got 
+Currently we have these wallpapers :- 
 
 - Debian [GPL-2.0+]
   - buster
