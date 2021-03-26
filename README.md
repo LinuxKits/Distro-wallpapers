@@ -3,7 +3,8 @@ This project is created to collect wallpapers, login and GRUB screens, and other
 
 # Related project
 https://github.com/nazibalalam/Distro_wallpapers-CLI-bash <br>
-https://github.com/happyeggchen/Distro_wallpapers-CLI-fish
+https://github.com/happyeggchen/Distro_wallpapers-CLI-fish <br>
+https://github.com/nazibalalam/Distro_wallpapers-CLI-python
 
 # Installation
 This project is just to collect all Linux distro wallpapers, so you can install (download) these wallpapers using the scripts mentioned above. With them you can browse through these folders withought downloading, download the folders you want, configure nitrogen for these wallpapers automatically and etc. Not all of these features have been implemented yet so you can contribute to these scripts. 
