@@ -10,9 +10,9 @@ https://github.com/nazibalalam/Distro_wallpapers-CLI-python
 This project is just to collect all Linux distro wallpapers, so you can install (download) these wallpapers using the scripts mentioned above. With them you can browse through these folders withought downloading, download the folders you want, configure nitrogen for these wallpapers automatically and etc. Not all of these features have been implemented yet so you can contribute to these scripts. 
 
 # List of included distro(s)
-Last updated = 2021-3-20 [UTC+8]
+Last updated = 2021-3-21 [UTC+8]
 
-Now we've got 
+Currently we have these wallpapers :- 
 
 - Debian [GPL-2.0+]
   - buster
@@ -57,6 +57,8 @@ Now we've got
 
 - ubuntu [CC-BY-SA 3.0]
   - 20.10
+  - 20.04
+  - 18.04
 
 - antiX [Unknown]
   - 16.1
