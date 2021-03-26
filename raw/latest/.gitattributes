@@ -17,3 +17,4 @@ endeavour.tar.gz filter=lfs diff=lfs merge=lfs -text
 Fedora.tar.gz filter=lfs diff=lfs merge=lfs -text
 MX-Linux.tar.gz filter=lfs diff=lfs merge=lfs -text
 antiX.tar.gz filter=lfs diff=lfs merge=lfs -text
+date.txt filter=lfs diff=lfs merge=lfs -text
