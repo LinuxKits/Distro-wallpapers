@@ -18,7 +18,7 @@ https://github.com/nazibalalam/Distro_wallpapers-CLI-bash
 This project is just to collect all Linux distro wallpapers, so you can install (download) these wallpapers using the scripts mentioned above. The python script is recommended as it's the one most developed. The bash script is a bit behind on development. But if you use fish, then the fish script can help you with your installation. With these scripts you can browse through these folders withought downloading, download the folders you want, configure nitrogen for these wallpapers automatically and etc. Not all of these features have been implemented yet so you can contribute to these scripts. 
 
 # List of included distro(s)
-Last updated = 2021-3-21 [UTC+8]
+Last updated = 2021-3-28 [UTC+8]
 
 Currently we have these wallpapers :- 
 
@@ -81,3 +81,7 @@ Currently we have these wallpapers :-
   
 - Fedora [CC-BY-SA-4.0]
   - 33
+
+- plasma [GPL-2+]
+  - 17.04
+  - 19.04
