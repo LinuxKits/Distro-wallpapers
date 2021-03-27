@@ -82,6 +82,6 @@ Currently we have these wallpapers :-
 - Fedora [CC-BY-SA-4.0]
   - 33
 
-- plasma [GPL-2+]
+- kubuntu [GPL-2+]
   - 17.04
   - 19.04
