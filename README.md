@@ -4,15 +4,15 @@ This project is created to collect wallpapers, login and GRUB screens, and other
 # Related project
 A cross-platform python script that allows you to download, install, manage, configure your nitrogen or feh to work with these wallpapers seamlessly, more information in this original page. **Note : recommended for every one, can run cross-platform as written in python, most actively developed, immediate help provided**
 
-https://github.com/nazibalalam/Distro_wallpapers-CLI-python <br>
+https://github.com/LinuxKits/Distro_wallpapers-CLI-python <br>
 
 A script that you can use ***if you use fish*** that allows you to download, install, manage, configure your nitrogen or feh to work with these wallpapers seamlessly, more information in this original page. **Note : recommended only if you use fish, commonly developed and you will be helped if needed**
 
-https://github.com/happyeggchen/Distro_wallpapers-CLI-fish
+https://github.com/LinuxKits/Distro_wallpapers-CLI-fish
 
 A bash script that allows you to download, install, manage, configure your nitrogen or feh to work with these wallpapers seamlessly, more information in this original page. **Note : this script is the least developed script, so you are on your own. Not recommended for everyone**
 
-https://github.com/nazibalalam/Distro_wallpapers-CLI-bash
+https://github.com/LinuxKits/Distro_wallpapers-CLI-bash
 
 # Installation
 This project is just to collect all Linux distro wallpapers, so you can install (download) these wallpapers using the scripts mentioned above. The python script is recommended as it's the one most developed. The bash script is a bit behind on development. But if you use fish, then the fish script can help you with your installation. With these scripts you can browse through these folders withought downloading, download the folders you want, configure nitrogen for these wallpapers automatically and etc. Not all of these features have been implemented yet so you can contribute to these scripts. 
