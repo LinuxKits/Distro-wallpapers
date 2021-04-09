@@ -85,3 +85,6 @@ Currently we have these wallpapers :-
 - kubuntu [GPL-2+]
   - 17.04
   - 19.04
+
+- RemixOS [Unknown]
+  - B2016112101
