@@ -1,0 +1,64 @@
+Greg Annandale Photography Image Licence
+ 
+Name of Photographer: Greg Annandale 
+E-mail: greg@gregannandale.com
+
+Name of Client: Raspberry Pi Trading / Raspberry Pi Foundation  
+(Hereinafter referred to as "the Licensee")
+E-mail: admin@raspberrypi.org
+
+Images (16):
+Arctic Sunset.jpg (1.1M)
+Aurora Borealis.jpg (1.5M)
+Black Sand Beach & Mountain Range.jpg (1.6M) 
+Cormorant Fisherman.jpg (842K)
+Icelandic Road.jpg (1.8M)
+Icelandic Waterfall.jpg (2.1M)
+Light Rays.jpg (2.5M)
+Manhattan Bridge.jpg (1.7M)
+Marina Bay Sands.jpg (1.5M)
+Pagoda Balloon.jpg (1.5M)
+Pagoda Sunset.jpg (1.0M)
+Patagonian Fjord.jpg (2.6M)
+Patagonian Sunrise.jpg (1.7M)
+Perched Lighthouse.jpg (2.2M)
+Tree Over Grand Canyon.jpg (2.1M) 
+Wind-blasted Mountain.jpg (1.1M)
+
+Date created: Various
+
+Copyright holder: Greg Annandale
+
+Identifying information: A selection of 16 images, mostly landscapes, taken in locations 
+including but not limited to Patagonia (Chile), Guilin (China), Bagan (Myanmar), 
+Iceland and the Faroe Islands.
+  
+Agreement:
+The photographer grants the Licensee the non-exclusive, non-transferable and non- 
+assignable use of all images named above for 10 years, for the purpose of use as the 
+default wallpaper included within the Raspberry Pi Desktop, distributed by the 
+Raspberry Pi Foundation. The licence is “digital only” and for medium resolution 
+(long edge at 1920px), images shall not be used in any other form (such as in print 
+publications) nor for any commercial activities. However, use of the images to promote 
+the operating system and the activities of the Foundation (such as on social media, on 
+blogs and printed at trade shows) is acceptable.
+
+Provisions:
+The photographer retains all copyrights attached to the images as well as any other 
+rights which may not be detailed in this agreement.
+
+Selling and/or redistribution of the images is forbidden.
+
+Licensee is allowed to crop and/or electronically alter images to suit their purposes 
+for the usage stated above.
+
+Indemnity:
+The Licensee indemnifies and holds harmless Greg Annandale against all claims, 
+liability, damages, costs and expenses stemming from a breach of this agreement, 
+the use of the images, your failure to abide by any restriction regarding the use 
+of an image, or any claim by a third party related to the use of the images.
+
+Warranty and Liability:
+The images are provided "as is" with no warranty regarding the suitability of the 
+images for any purpose. The artist is not liable to the client or any person or 
+entity for damages, costs or losses stemming from any usage of the images.
