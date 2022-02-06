@@ -45,6 +45,7 @@ Currently we have these wallpapers :-
 
 - gnome [CCBYSA / Public Domain / CC0]
   - 3.30
+  - 41
 
 - lineageos [Maybe MIT]
   - 17.1
@@ -53,7 +54,28 @@ Currently we have these wallpapers :-
   - 20.2.1
 
 - mint [Unknown]
+  - 20.3
+  - 20.2
   - 20.1
+  - 19.3
+  - 19.2
+  - 19.1
+  - 19
+  - 18.3
+  - 18.2
+  - 18.1
+  - 18
+  - 17.3
+  - 17.2
+  - 17.1
+  - 17
+  - 16
+  - 15
+  - 14
+  - 13
+  - retro
+  - xfce
+  - defaults
 
 - plasma [GPL-2+]
   - 5.14
@@ -67,8 +89,31 @@ Currently we have these wallpapers :-
 - ubuntu [CC-BY-SA 3.0]
   - 20.10
   - 20.04
+  - 19.10
+  - 19.04
+  - 18.10
   - 18.04
-
+  - 17.10
+  - 17.04
+  - 16.10
+  - 16.04
+  - 15.10
+  - 15.04
+  - 14.10
+  - 14.04
+  - 13.10
+  - 13.04
+  - 12.10
+  - 12.04
+  - 11.10
+  - 11.04
+  - 10.10
+  - 10.04
+  - 9.10
+  - 9.04
+  
+- Edubuntu (Discontinued) 
+  
 - antiX [Unknown]
   - 16.1
   - 17.1
