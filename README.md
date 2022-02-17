@@ -144,3 +144,5 @@ Currently we have these wallpapers :-
 
 - Remix OS [Unknown]
   - B2016112101
+
+- Trenta OS(Discontinued) [Creative Commons Attribution-ShareAlike 4.0 International License]
