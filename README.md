@@ -1,5 +1,5 @@
 # Distro_wallpapers
-This project is created to collect wallpapers, login and GRUB screens, and other artworks of each and every linux distribution.
+This project is created to collect wallpapers, login and GRUB screens, and other artworks of each and every linux distribution and the contributions from the community under one roof, **in order to preserve the legacy of FLOSS artwork and history 😊**
 
 # Related project
 A cross-platform python script that allows you to download, install, manage, configure your nitrogen or feh to work with these wallpapers seamlessly, more information in this original page. **Note : recommended for every one, can run cross-platform as written in python, most actively developed, immediate help provided**
