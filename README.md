@@ -146,3 +146,5 @@ Currently we have these wallpapers :-
   - B2016112101
 
 - Trenta OS(Discontinued) [Creative Commons Attribution-ShareAlike 4.0 International License]
+
+- Community Wallpapers (Contibuted by the community)
