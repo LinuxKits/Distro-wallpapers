@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper deleted="false">
+		<name>archlinux-aftermath</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-aftermath.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-aqua-vines</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-aqua-vines.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-arrival</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-arrival.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-berry</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-berry.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-burn</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-burn.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-carbonite-knight</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-carbonite-knight.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-deep-aurora</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-deep-aurora.jpg</filename>
+	</wallpaper>
+	
+	<wallpaper deleted="false">
+		<name>archlinux-ekisho-carbonite</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-ekisho-carbonite.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-elation</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-elation.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-firestarter</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-firestarter.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-luminous-uber</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-luminous-uber.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-poison</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-poison.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-poolclouds</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-poolclouds.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-simplyblack.png</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-simplyblack.png</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-tribute</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-tribute.jpg</filename>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>archlinux-underground</name>
+		<filename>/usr/share/archlinux/wallpaper/archlinux-underground.jpg</filename>
+	</wallpaper>
+</wallpapers>
