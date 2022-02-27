@@ -148,3 +148,10 @@ Currently we have these wallpapers :-
 - Trenta OS(Discontinued) [Creative Commons Attribution-ShareAlike 4.0 International License]
 
 - Community Wallpapers (Contibuted by the community)
+
+
+# How to Contritbute?
+1. If the Wallpaper is your creation you can add it to the "Community Wallpapers" section
+2. If the Wallpaper if from the distro you use, add it under your distros name
+3. If you found the wallpaper online related to linux or similar project, and is allowed to be shared by its original creator, add it to "Community Wallpapers" section
+4. If you don't know how to use github you can also mail us the image, along with its licence if possible
