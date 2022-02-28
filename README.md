@@ -173,6 +173,8 @@ Currently we have these wallpapers :-
 
 - Gentoo [CC]
 
+- Kali Linux
+
 - Kubuntu [GPL-2+]
   - 17.04
   - 19.04
