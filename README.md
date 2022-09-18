@@ -88,6 +88,7 @@ Currently we have these wallpapers :-
   - 4.1
 
 - Ubuntu [CC-BY-SA 3.0]
+  - 22.04
   - 20.10
   - 20.04
   - 19.10
