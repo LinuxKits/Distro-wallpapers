@@ -54,6 +54,7 @@ Currently we have these wallpapers :-
   - 20.2.1
 
 - Linux Mint [Unknown]
+  - 21 [Unsplash License]
   - 20.3
   - 20.2
   - 20.1
